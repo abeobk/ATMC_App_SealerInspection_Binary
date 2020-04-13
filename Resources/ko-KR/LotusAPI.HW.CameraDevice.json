@@ -1,0 +1,261 @@
+{
+  "AcquisitionFrameRate": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "AcquisitionFrameRate: double\n",
+    "DisplayName": "AcquisitionFrameRate",
+    "Name": "AcquisitionFrameRate"
+  },
+  "ActionDeviceKey": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ActionDeviceKey: int\n",
+    "DisplayName": "ActionDeviceKey",
+    "Name": "ActionDeviceKey"
+  },
+  "ActionGroupKey": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ActionGroupKey: int\n",
+    "DisplayName": "ActionGroupKey",
+    "Name": "ActionGroupKey"
+  },
+  "ActionGroupMask": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ActionGroupMask: int\n",
+    "DisplayName": "ActionGroupMask",
+    "Name": "ActionGroupMask"
+  },
+  "AutoReconnectInterval": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "AutoReconnectInterval: int\n",
+    "DisplayName": "AutoReconnectInterval",
+    "Name": "AutoReconnectInterval"
+  },
+  "BufferCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "BufferCount: int\n",
+    "DisplayName": "BufferCount",
+    "Name": "BufferCount"
+  },
+  "DeviceInfo": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "DeviceInfo(LotusAPI.HW.DeviceInfo)",
+    "DisplayName": "DeviceInfo",
+    "Name": "DeviceInfo"
+  },
+  "EnableAcquisitionFrameRate": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "EnableAcquisitionFrameRate: bool\n",
+    "DisplayName": "EnableAcquisitionFrameRate",
+    "Name": "EnableAcquisitionFrameRate"
+  },
+  "EnableAutoReconnect": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "EnableAutoReconnect: bool\n",
+    "DisplayName": "EnableAutoReconnect",
+    "Name": "EnableAutoReconnect"
+  },
+  "EnableGamma": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "EnableGamma: bool\n",
+    "DisplayName": "EnableGamma",
+    "Name": "EnableGamma"
+  },
+  "EnableTrigger": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "EnableTrigger: bool\n",
+    "DisplayName": "EnableTrigger",
+    "Name": "EnableTrigger"
+  },
+  "ExposureTime": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ExposureTime: int\n",
+    "DisplayName": "ExposureTime",
+    "Name": "ExposureTime"
+  },
+  "GainAll": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "GainAll: int\n",
+    "DisplayName": "GainAll",
+    "Name": "GainAll"
+  },
+  "GainAnalog": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "GainAnalog: int\n",
+    "DisplayName": "GainAnalog",
+    "Name": "GainAnalog"
+  },
+  "GainDigital": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "GainDigital: int\n",
+    "DisplayName": "GainDigital",
+    "Name": "GainDigital"
+  },
+  "Gamma": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Gamma: double\n",
+    "DisplayName": "Gamma",
+    "Name": "Gamma"
+  },
+  "HorizontalBinning": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "HorizontalBinning: int\n",
+    "DisplayName": "HorizontalBinning",
+    "Name": "HorizontalBinning"
+  },
+  "HorizontalBinningMode": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "HorizontalBinningMode: String\n",
+    "DisplayName": "HorizontalBinningMode",
+    "Name": "HorizontalBinningMode"
+  },
+  "HorizontalDecimation": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "HorizontalDecimation: int\n",
+    "DisplayName": "HorizontalDecimation",
+    "Name": "HorizontalDecimation"
+  },
+  "IsConnected": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "IsConnected(System.Boolean)",
+    "DisplayName": "IsConnected",
+    "Name": "IsConnected"
+  },
+  "IsGrabbing": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "IsGrabbing(System.Boolean)",
+    "DisplayName": "IsGrabbing",
+    "Name": "IsGrabbing"
+  },
+  "LightSource": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "LightSource: String\n",
+    "DisplayName": "LightSource",
+    "Name": "LightSource"
+  },
+  "MaxAutoReconnectTry": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "MaxAutoReconnectTry: int\n",
+    "DisplayName": "MaxAutoReconnectTry",
+    "Name": "MaxAutoReconnectTry"
+  },
+  "Output1": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Output1: bool\n",
+    "DisplayName": "Output1",
+    "Name": "Output1"
+  },
+  "PixelFormat": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "PixelFormat: String\n",
+    "DisplayName": "PixelFormat",
+    "Name": "PixelFormat"
+  },
+  "ROI": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ROI(LotusAPI.Math.Rect2i)",
+    "DisplayName": "ROI",
+    "Name": "ROI"
+  },
+  "ReadOutTime": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ReadOutTime(System.Int32)",
+    "DisplayName": "ReadOutTime",
+    "Name": "ReadOutTime"
+  },
+  "Resolution": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Resolution(LotusAPI.Math.Size2i)",
+    "DisplayName": "Resolution",
+    "Name": "Resolution"
+  },
+  "ReverseX": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ReverseX: bool\n",
+    "DisplayName": "ReverseX",
+    "Name": "ReverseX"
+  },
+  "ReverseY": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ReverseY: bool\n",
+    "DisplayName": "ReverseY",
+    "Name": "ReverseY"
+  },
+  "TriggerEdge": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "TriggerEdge: String\n",
+    "DisplayName": "TriggerEdge",
+    "Name": "TriggerEdge"
+  },
+  "TriggerSource": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "TriggerSource: String\n",
+    "DisplayName": "TriggerSource",
+    "Name": "TriggerSource"
+  },
+  "Type": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Type(LotusAPI.HW.CameraType)",
+    "DisplayName": "Type",
+    "Name": "Type"
+  },
+  "VerticalBinning": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "VerticalBinning: int\n",
+    "DisplayName": "VerticalBinning",
+    "Name": "VerticalBinning"
+  },
+  "VerticalBinningMode": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "VerticalBinningMode: String\n",
+    "DisplayName": "VerticalBinningMode",
+    "Name": "VerticalBinningMode"
+  },
+  "VerticalDecimation": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "VerticalDecimation: int\n",
+    "DisplayName": "VerticalDecimation",
+    "Name": "VerticalDecimation"
+  },
+  "WhiteBalance": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "WhiteBalance: String\n",
+    "DisplayName": "WhiteBalance",
+    "Name": "WhiteBalance"
+  }
+}

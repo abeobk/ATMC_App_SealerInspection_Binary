@@ -1,0 +1,156 @@
+{
+  "AsmDesc": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "AsmDesc(System.String)",
+    "DisplayName": "AsmDesc",
+    "Name": "AsmDesc"
+  },
+  "CameraSampleDir1": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "CameraSampleDir1(System.String)",
+    "DisplayName": "CameraSampleDir1",
+    "Name": "CameraSampleDir1"
+  },
+  "CameraSampleDir2": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "CameraSampleDir2(System.String)",
+    "DisplayName": "CameraSampleDir2",
+    "Name": "CameraSampleDir2"
+  },
+  "CarNumber": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "CarNumber(System.Int32)",
+    "DisplayName": "CarNumber",
+    "Name": "CarNumber"
+  },
+  "ContinuousNGCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ContinuousNGCount(System.Int32)",
+    "DisplayName": "ContinuousNGCount",
+    "Name": "ContinuousNGCount"
+  },
+  "DetectorConfigCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "DetectorConfigCount(System.Int32)",
+    "DisplayName": "DetectorConfigCount",
+    "Name": "DetectorConfigCount"
+  },
+  "DetectorConfigs": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "DetectorConfigs(ATMC.App.SealerInspection.DetectorConfig[])",
+    "DisplayName": "DetectorConfigs",
+    "Name": "DetectorConfigs"
+  },
+  "InspectCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "InspectCount(System.Int32)",
+    "DisplayName": "InspectCount",
+    "Name": "InspectCount"
+  },
+  "ModelDataDirectory": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ModelDataDirectory(System.String)",
+    "DisplayName": "ModelDataDirectory",
+    "Name": "ModelDataDirectory"
+  },
+  "ModelImage": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ModelImage(LotusAPI.MV.Mat)",
+    "DisplayName": "ModelImage",
+    "Name": "ModelImage"
+  },
+  "ModelImageFile": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ModelImageFile(System.String)",
+    "DisplayName": "ModelImageFile",
+    "Name": "ModelImageFile"
+  },
+  "ModelName": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ModelName(System.String)",
+    "DisplayName": "ModelName",
+    "Name": "ModelName"
+  },
+  "OKThreshold": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "OKThreshold(System.Double)",
+    "DisplayName": "OKThreshold",
+    "Name": "OKThreshold"
+  },
+  "RobotName": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "RobotName(System.String)",
+    "DisplayName": "RobotName",
+    "Name": "RobotName"
+  },
+  "SampleCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SampleCount(System.Int32)",
+    "DisplayName": "SampleCount",
+    "Name": "SampleCount"
+  },
+  "SampleDirectory": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SampleDirectory(System.String)",
+    "DisplayName": "SampleDirectory",
+    "Name": "SampleDirectory"
+  },
+  "SampleImageFiles1": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SampleImageFiles1(System.String[])",
+    "DisplayName": "SampleImageFiles1",
+    "Name": "SampleImageFiles1"
+  },
+  "SampleImageFiles2": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SampleImageFiles2(System.String[])",
+    "DisplayName": "SampleImageFiles2",
+    "Name": "SampleImageFiles2"
+  },
+  "SampleModelImageFile": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SampleModelImageFile(System.String)",
+    "DisplayName": "SampleModelImageFile",
+    "Name": "SampleModelImageFile"
+  },
+  "SkipCount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SkipCount(System.Int32)",
+    "DisplayName": "SkipCount",
+    "Name": "SkipCount"
+  },
+  "Timing": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "Timing(System.Double[])",
+    "DisplayName": "Timing",
+    "Name": "Timing"
+  },
+  "TimingFile": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "TimingFile(System.String)",
+    "DisplayName": "TimingFile",
+    "Name": "TimingFile"
+  }
+}

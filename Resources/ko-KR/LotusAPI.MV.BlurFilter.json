@@ -1,0 +1,23 @@
+{
+  "Object": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "Object(Lotus.Mv.BlurFilter*)",
+    "DisplayName": "Object",
+    "Name": "Object"
+  },
+  "Ptr": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "Ptr(System.ValueType)",
+    "DisplayName": "Ptr",
+    "Name": "Ptr"
+  },
+  "Radius": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Radius: int\n",
+    "DisplayName": "Radius",
+    "Name": "Radius"
+  }
+}

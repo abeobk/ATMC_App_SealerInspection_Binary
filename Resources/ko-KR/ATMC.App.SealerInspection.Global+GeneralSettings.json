@@ -1,0 +1,79 @@
+{
+  "CameraSettingFile": {
+    "Browsable": true,
+    "Category": "Config files",
+    "Description": "Camera setting file",
+    "DisplayName": "Camera setting file",
+    "Name": "CameraSettingFile"
+  },
+  "CaptureFPS": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "The camera sampling FPS",
+    "DisplayName": "Camera FPS",
+    "Name": "CaptureFPS"
+  },
+  "ConfigDirectory": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "The location where the software configurations will be stored",
+    "DisplayName": "Config directory",
+    "Name": "ConfigDirectory"
+  },
+  "ControllerSettingFile": {
+    "Browsable": true,
+    "Category": "Config files",
+    "Description": "Controller setting file",
+    "DisplayName": "Controller setting file",
+    "Name": "ControllerSettingFile"
+  },
+  "DatabaseFile": {
+    "Browsable": true,
+    "Category": "Config files",
+    "Description": "Database file",
+    "DisplayName": "Database file",
+    "Name": "DatabaseFile"
+  },
+  "ModelSettingFile": {
+    "Browsable": true,
+    "Category": "Config files",
+    "Description": "Model setting file",
+    "DisplayName": "Model setting file",
+    "Name": "ModelSettingFile"
+  },
+  "RecentResultCount": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "The number of items that will be shown in the recent result list.",
+    "DisplayName": "Recent result count",
+    "Name": "RecentResultCount"
+  },
+  "ResetTime": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Reset time everyday",
+    "DisplayName": "Reset time",
+    "Name": "ResetTime"
+  },
+  "ResultDirectory": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "The location where the inspection result will be stored",
+    "DisplayName": "Result directory",
+    "Name": "ResultDirectory"
+  },
+  "TooltipDelay": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "TooltipDelay",
+    "DisplayName": "TooltipDelay",
+    "Name": "TooltipDelay"
+  },
+  "VizRoiSize": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "VizROISize",
+    "DisplayName": "VizROISize",
+    "Name": "VizRoiSize"
+  }
+}

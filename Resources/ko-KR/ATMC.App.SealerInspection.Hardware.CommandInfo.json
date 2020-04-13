@@ -1,0 +1,30 @@
+{
+  "Command": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Command(System.String)",
+    "DisplayName": "Command",
+    "Name": "Command"
+  },
+  "Function": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Function(ATMC.App.SealerInspection.Hardware.CommandInfo+FunctionType)",
+    "DisplayName": "Function",
+    "Name": "Function"
+  },
+  "Name": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Name(System.String)",
+    "DisplayName": "Name",
+    "Name": "Name"
+  },
+  "Text": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Text(System.String)",
+    "DisplayName": "Text",
+    "Name": "Text"
+  }
+}

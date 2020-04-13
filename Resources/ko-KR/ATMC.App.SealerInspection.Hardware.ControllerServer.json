@@ -1,0 +1,23 @@
+{
+  "Commands": {
+    "Browsable": true,
+    "Category": "Protocol settings",
+    "Description": "Commands(System.Collections.Generic.List`1[ATMC.App.SealerInspection.Hardware.CommandInfo])",
+    "DisplayName": "Commands",
+    "Name": "Commands"
+  },
+  "IP": {
+    "Browsable": true,
+    "Category": "Network settings",
+    "Description": "IP(System.String)",
+    "DisplayName": "IP",
+    "Name": "IP"
+  },
+  "Port": {
+    "Browsable": true,
+    "Category": "Network settings",
+    "Description": "Port(System.Int32)",
+    "DisplayName": "Port",
+    "Name": "Port"
+  }
+}

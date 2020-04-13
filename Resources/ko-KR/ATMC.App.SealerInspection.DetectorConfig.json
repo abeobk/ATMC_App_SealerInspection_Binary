@@ -1,0 +1,51 @@
+{
+  "BlurFilter": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "BlurFilter(LotusAPI.MV.IImageFilter)",
+    "DisplayName": "BlurFilter",
+    "Name": "BlurFilter"
+  },
+  "Camera": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Camera(ATMC.App.SealerInspection.DetectorConfig+CameraSource)",
+    "DisplayName": "Camera",
+    "Name": "Camera"
+  },
+  "Detector": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "Detector(LotusAPI.MV.PathDetector)",
+    "DisplayName": "Detector",
+    "Name": "Detector"
+  },
+  "ROICount": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ROICount(System.Int32)",
+    "DisplayName": "ROICount",
+    "Name": "ROICount"
+  },
+  "ROIs": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "ROIs(System.Collections.Generic.List`1[ATMC.App.SealerInspection.DetectorConfig+DetectionRegion])",
+    "DisplayName": "ROIs",
+    "Name": "ROIs"
+  },
+  "Skip": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "Skip(System.Boolean)",
+    "DisplayName": "Skip",
+    "Name": "Skip"
+  },
+  "ThresholdFilter": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "ThresholdFilter(LotusAPI.MV.IImageFilter)",
+    "DisplayName": "ThresholdFilter",
+    "Name": "ThresholdFilter"
+  }
+}
