@@ -17,7 +17,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Radius: int\n",
-    "DisplayName": "Radius",
+    "DisplayName": "반지름",
     "Name": "Radius"
   }
 }

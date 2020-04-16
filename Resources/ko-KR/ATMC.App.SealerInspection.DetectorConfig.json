@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Camera(ATMC.App.SealerInspection.DetectorConfig+CameraSource)",
-    "DisplayName": "Camera",
+    "DisplayName": "카메라",
     "Name": "Camera"
   },
   "Detector": {
@@ -24,7 +24,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ROICount(System.Int32)",
-    "DisplayName": "ROICount",
+    "DisplayName": "ROI 갯수",
     "Name": "ROICount"
   },
   "ROIs": {
@@ -38,7 +38,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Skip(System.Boolean)",
-    "DisplayName": "Skip",
+    "DisplayName": "미사용",
     "Name": "Skip"
   },
   "ThresholdFilter": {

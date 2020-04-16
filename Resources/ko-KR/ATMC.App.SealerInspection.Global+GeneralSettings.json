@@ -3,77 +3,77 @@
     "Browsable": true,
     "Category": "Config files",
     "Description": "Camera setting file",
-    "DisplayName": "Camera setting file",
+    "DisplayName": "카메라 설정 파일",
     "Name": "CameraSettingFile"
   },
   "CaptureFPS": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "The camera sampling FPS",
-    "DisplayName": "Camera FPS",
+    "DisplayName": "카메라 초당 프레임 수",
     "Name": "CaptureFPS"
   },
   "ConfigDirectory": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "The location where the software configurations will be stored",
-    "DisplayName": "Config directory",
+    "DisplayName": "초기화 파일 위치",
     "Name": "ConfigDirectory"
   },
   "ControllerSettingFile": {
     "Browsable": true,
     "Category": "Config files",
     "Description": "Controller setting file",
-    "DisplayName": "Controller setting file",
+    "DisplayName": "IO 컨트롤 셋팅 파일",
     "Name": "ControllerSettingFile"
   },
   "DatabaseFile": {
     "Browsable": true,
     "Category": "Config files",
     "Description": "Database file",
-    "DisplayName": "Database file",
+    "DisplayName": "데이터베이스 파일",
     "Name": "DatabaseFile"
   },
   "ModelSettingFile": {
     "Browsable": true,
     "Category": "Config files",
     "Description": "Model setting file",
-    "DisplayName": "Model setting file",
+    "DisplayName": "모델 설정 파일",
     "Name": "ModelSettingFile"
   },
   "RecentResultCount": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "The number of items that will be shown in the recent result list.",
-    "DisplayName": "Recent result count",
+    "DisplayName": "최근 결과 출력 갯수",
     "Name": "RecentResultCount"
   },
   "ResetTime": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "Reset time everyday",
-    "DisplayName": "Reset time",
+    "DisplayName": "OK/NG 카운트 초기화 시간",
     "Name": "ResetTime"
   },
   "ResultDirectory": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "The location where the inspection result will be stored",
-    "DisplayName": "Result directory",
+    "DisplayName": "결과 저장 위치",
     "Name": "ResultDirectory"
   },
   "TooltipDelay": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "TooltipDelay",
-    "DisplayName": "TooltipDelay",
+    "DisplayName": "툴팁 출력 시간(ms)",
     "Name": "TooltipDelay"
   },
   "VizRoiSize": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "VizROISize",
-    "DisplayName": "VizROISize",
+    "DisplayName": "경로 상자 크기",
     "Name": "VizRoiSize"
   }
 }

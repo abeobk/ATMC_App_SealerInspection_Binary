@@ -3,21 +3,21 @@
     "Browsable": true,
     "Category": "Protocol settings",
     "Description": "Commands(System.Collections.Generic.List`1[ATMC.App.SealerInspection.Hardware.CommandInfo])",
-    "DisplayName": "Commands",
+    "DisplayName": "프로토콜",
     "Name": "Commands"
   },
   "IP": {
     "Browsable": true,
     "Category": "Network settings",
     "Description": "IP(System.String)",
-    "DisplayName": "IP",
+    "DisplayName": "제어기 IP 주소",
     "Name": "IP"
   },
   "Port": {
     "Browsable": true,
     "Category": "Network settings",
     "Description": "Port(System.Int32)",
-    "DisplayName": "Port",
+    "DisplayName": "제어기 포트 번호",
     "Name": "Port"
   }
 }

@@ -17,21 +17,21 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Radius: int\n",
-    "DisplayName": "Radius",
+    "DisplayName": "반지름",
     "Name": "Radius"
   },
   "SigmaX": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SigmaX: double\n",
-    "DisplayName": "SigmaX",
+    "DisplayName": "시그마 X",
     "Name": "SigmaX"
   },
   "SigmaY": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SigmaY: double\n",
-    "DisplayName": "SigmaY",
+    "DisplayName": "시그마 Y",
     "Name": "SigmaY"
   }
 }

@@ -3,14 +3,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Inverted: bool\n",
-    "DisplayName": "Inverted",
+    "DisplayName": "반전",
     "Name": "Inverted"
   },
   "MaxValue": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "MaxValue: int\n",
-    "DisplayName": "MaxValue",
+    "DisplayName": "최대값",
     "Name": "MaxValue"
   },
   "Object": {
@@ -31,14 +31,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Radius: int\n",
-    "DisplayName": "Radius",
+    "DisplayName": "반지름",
     "Name": "Radius"
   },
   "Threshold": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Threshold: int\n",
-    "DisplayName": "Threshold",
+    "DisplayName": "임계값",
     "Name": "Threshold"
   }
 }

@@ -10,14 +10,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "MinArea: int\n",
-    "DisplayName": "MinArea",
+    "DisplayName": "최소 영역",
     "Name": "MinArea"
   },
   "MorphRadius": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "MorphRadius: int\n",
-    "DisplayName": "MorphRadius",
+    "DisplayName": "모폴로지 반지름",
     "Name": "MorphRadius"
   },
   "Object": {
@@ -45,21 +45,21 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ShowThresholdArea: bool\n",
-    "DisplayName": "ShowThresholdArea",
+    "DisplayName": "검사 영역 ",
     "Name": "ShowThresholdArea"
   },
   "Step": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Step: int\n",
-    "DisplayName": "Step",
+    "DisplayName": "검사 영역간 간격",
     "Name": "Step"
   },
   "TailWidth": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "TailWidth: int\n",
-    "DisplayName": "TailWidth",
+    "DisplayName": "ROI 가장자리 크기",
     "Name": "TailWidth"
   }
 }

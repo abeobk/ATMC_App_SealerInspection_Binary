@@ -3,28 +3,28 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Command(System.String)",
-    "DisplayName": "Command",
+    "DisplayName": "신호명",
     "Name": "Command"
   },
   "Function": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Function(ATMC.App.SealerInspection.Hardware.CommandInfo+FunctionType)",
-    "DisplayName": "Function",
+    "DisplayName": "신호 기능",
     "Name": "Function"
   },
   "Name": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Name(System.String)",
-    "DisplayName": "Name",
+    "DisplayName": "이름",
     "Name": "Name"
   },
   "Text": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Text(System.String)",
-    "DisplayName": "Text",
+    "DisplayName": "출력 텍스트",
     "Name": "Text"
   }
 }

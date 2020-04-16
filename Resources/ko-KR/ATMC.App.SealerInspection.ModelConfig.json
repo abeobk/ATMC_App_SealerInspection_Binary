@@ -3,42 +3,42 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "AsmDesc(System.String)",
-    "DisplayName": "AsmDesc",
+    "DisplayName": "공정 설명",
     "Name": "AsmDesc"
   },
   "CameraSampleDir1": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "CameraSampleDir1(System.String)",
-    "DisplayName": "CameraSampleDir1",
+    "DisplayName": "기준이미지 경로_카메라1",
     "Name": "CameraSampleDir1"
   },
   "CameraSampleDir2": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "CameraSampleDir2(System.String)",
-    "DisplayName": "CameraSampleDir2",
+    "DisplayName": "기준 이미지 경로_카메라2",
     "Name": "CameraSampleDir2"
   },
   "CarNumber": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "CarNumber(System.Int32)",
-    "DisplayName": "CarNumber",
+    "DisplayName": "차종 번호",
     "Name": "CarNumber"
   },
   "ContinuousNGCount": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ContinuousNGCount(System.Int32)",
-    "DisplayName": "ContinuousNGCount",
+    "DisplayName": "연속 NG 개수",
     "Name": "ContinuousNGCount"
   },
   "DetectorConfigCount": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "DetectorConfigCount(System.Int32)",
-    "DisplayName": "DetectorConfigCount",
+    "DisplayName": "검사 경로 개수",
     "Name": "DetectorConfigCount"
   },
   "DetectorConfigs": {
@@ -52,18 +52,18 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "InspectCount(System.Int32)",
-    "DisplayName": "InspectCount",
+    "DisplayName": "검사 사진 개수",
     "Name": "InspectCount"
   },
   "ModelDataDirectory": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ModelDataDirectory(System.String)",
-    "DisplayName": "ModelDataDirectory",
+    "DisplayName": "모델 데이터 경로",
     "Name": "ModelDataDirectory"
   },
   "ModelImage": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "ModelImage(LotusAPI.MV.Mat)",
     "DisplayName": "ModelImage",
@@ -73,53 +73,53 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ModelImageFile(System.String)",
-    "DisplayName": "ModelImageFile",
+    "DisplayName": "Path 이미지 위치",
     "Name": "ModelImageFile"
   },
   "ModelName": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ModelName(System.String)",
-    "DisplayName": "ModelName",
+    "DisplayName": "차종명",
     "Name": "ModelName"
   },
   "OKThreshold": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "OKThreshold(System.Double)",
-    "DisplayName": "OKThreshold",
+    "DisplayName": "OK 임계값",
     "Name": "OKThreshold"
   },
   "RobotName": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "RobotName(System.String)",
-    "DisplayName": "RobotName",
+    "DisplayName": "로봇명",
     "Name": "RobotName"
   },
   "SampleCount": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SampleCount(System.Int32)",
-    "DisplayName": "SampleCount",
+    "DisplayName": "기준 이미지 개수",
     "Name": "SampleCount"
   },
   "SampleDirectory": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SampleDirectory(System.String)",
-    "DisplayName": "SampleDirectory",
+    "DisplayName": "기준 이미지 불러오기",
     "Name": "SampleDirectory"
   },
   "SampleImageFiles1": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "SampleImageFiles1(System.String[])",
     "DisplayName": "SampleImageFiles1",
     "Name": "SampleImageFiles1"
   },
   "SampleImageFiles2": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "SampleImageFiles2(System.String[])",
     "DisplayName": "SampleImageFiles2",
@@ -129,14 +129,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SampleModelImageFile(System.String)",
-    "DisplayName": "SampleModelImageFile",
+    "DisplayName": "Path 이미지 불러오기",
     "Name": "SampleModelImageFile"
   },
   "SkipCount": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SkipCount(System.Int32)",
-    "DisplayName": "SkipCount",
+    "DisplayName": "미사용 사진 개수",
     "Name": "SkipCount"
   },
   "Timing": {
@@ -150,7 +150,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "TimingFile(System.String)",
-    "DisplayName": "TimingFile",
+    "DisplayName": "타이밍 파일 경로",
     "Name": "TimingFile"
   }
 }
