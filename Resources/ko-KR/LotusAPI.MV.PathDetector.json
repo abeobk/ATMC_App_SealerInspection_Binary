@@ -7,7 +7,7 @@
     "Name": "EdgePolicy"
   },
   "MinArea": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "MinArea: int\n",
     "DisplayName": "ROI 최소 픽셀(가로x세로)",

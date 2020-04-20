@@ -7,7 +7,7 @@
     "Name": "Inverted"
   },
   "MaxValue": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "MaxValue: double\n",
     "DisplayName": "최대값",
