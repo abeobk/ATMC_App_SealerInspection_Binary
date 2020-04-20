@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "Network settings",
     "Description": "IP(System.String)",
-    "DisplayName": "제어기 IP 주소",
+    "DisplayName": "비전PC IP 주소",
     "Name": "IP"
   },
   "Port": {
@@ -19,5 +19,12 @@
     "Description": "Port(System.Int32)",
     "DisplayName": "제어기 포트 번호",
     "Name": "Port"
+  },
+  "SendCommand": {
+    "Browsable": true,
+    "Category": "Test",
+    "Description": "",
+    "DisplayName": "신호 명령어 테스트",
+    "Name": "SendCommand"
   }
 }

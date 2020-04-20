@@ -3,14 +3,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "EdgePolicy: String\n",
-    "DisplayName": "EdgePolicy",
+    "DisplayName": "검사 방향 설정",
     "Name": "EdgePolicy"
   },
   "MinArea": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "MinArea: int\n",
-    "DisplayName": "최소 영역",
+    "DisplayName": "ROI 최소 픽셀(가로x세로)",
     "Name": "MinArea"
   },
   "MorphRadius": {
@@ -38,28 +38,28 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ShowStat: bool\n",
-    "DisplayName": "ShowStat",
+    "DisplayName": "검사 정보 표시",
     "Name": "ShowStat"
   },
   "ShowThresholdArea": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ShowThresholdArea: bool\n",
-    "DisplayName": "검사 영역 ",
+    "DisplayName": "검사 영역 표시",
     "Name": "ShowThresholdArea"
   },
   "Step": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Step: int\n",
-    "DisplayName": "검사 영역간 간격",
+    "DisplayName": "검사 영역내 간격",
     "Name": "Step"
   },
   "TailWidth": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "TailWidth: int\n",
-    "DisplayName": "ROI 가장자리 크기",
+    "DisplayName": "ROI 가장자리 길이",
     "Name": "TailWidth"
   }
 }

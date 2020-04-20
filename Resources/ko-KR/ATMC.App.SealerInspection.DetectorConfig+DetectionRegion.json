@@ -1,0 +1,79 @@
+{
+  "MaxRangeRect": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "MaxRangeRect(LotusAPI.MV.RectangleRegion)",
+    "DisplayName": "MaxRangeRect",
+    "Name": "MaxRangeRect"
+  },
+  "MinRangeRect": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "MinRangeRect(LotusAPI.MV.RectangleRegion)",
+    "DisplayName": "MinRangeRect",
+    "Name": "MinRangeRect"
+  },
+  "OKThreshold": {
+    "Browsable": true,
+    "Category": "DetectionRegion",
+    "Description": "",
+    "DisplayName": "OK 임계값",
+    "Name": "OKThreshold"
+  },
+  "ROI": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "ROI(LotusAPI.MV.RectangleRegion)",
+    "DisplayName": "ROI",
+    "Name": "ROI"
+  },
+  "ROIValid": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "ROIValid(System.Boolean)",
+    "DisplayName": "ROIValid",
+    "Name": "ROIValid"
+  },
+  "ShowThresholdRange": {
+    "Browsable": true,
+    "Category": "DetectionRegion",
+    "Description": "",
+    "DisplayName": "상한하한 표시선",
+    "Name": "ShowThresholdRange"
+  },
+  "ThresholdLower": {
+    "Browsable": true,
+    "Category": "DetectionRegion",
+    "Description": "",
+    "DisplayName": "하한값",
+    "Name": "ThresholdLower"
+  },
+  "ThresholdUpper": {
+    "Browsable": true,
+    "Category": "DetectionRegion",
+    "Description": "",
+    "DisplayName": "상한값",
+    "Name": "ThresholdUpper"
+  },
+  "Valid": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "Valid(System.Boolean)",
+    "DisplayName": "Valid",
+    "Name": "Valid"
+  },
+  "VizROI": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "VizROI(LotusAPI.MV.RectangleRegion)",
+    "DisplayName": "VizROI",
+    "Name": "VizROI"
+  },
+  "VizROIValid": {
+    "Browsable": false,
+    "Category": "LotusAPI",
+    "Description": "VizROIValid(System.Boolean)",
+    "DisplayName": "VizROIValid",
+    "Name": "VizROIValid"
+  }
+}

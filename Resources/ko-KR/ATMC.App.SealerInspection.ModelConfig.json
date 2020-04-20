@@ -10,14 +10,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "CameraSampleDir1(System.String)",
-    "DisplayName": "기준이미지 경로_카메라1",
+    "DisplayName": "샘플 이미지 경로_카메라1",
     "Name": "CameraSampleDir1"
   },
   "CameraSampleDir2": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "CameraSampleDir2(System.String)",
-    "DisplayName": "기준 이미지 경로_카메라2",
+    "DisplayName": "샘플 이미지 경로_카메라2",
     "Name": "CameraSampleDir2"
   },
   "CarNumber": {
@@ -59,14 +59,14 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ModelDataDirectory(System.String)",
-    "DisplayName": "모델 데이터 경로",
+    "DisplayName": "모델 데이터 위치",
     "Name": "ModelDataDirectory"
   },
   "ModelImage": {
     "Browsable": false,
     "Category": "LotusAPI",
     "Description": "ModelImage(LotusAPI.MV.Mat)",
-    "DisplayName": "ModelImage",
+    "DisplayName": "모델 이미지",
     "Name": "ModelImage"
   },
   "ModelImageFile": {
@@ -101,28 +101,28 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SampleCount(System.Int32)",
-    "DisplayName": "기준 이미지 개수",
+    "DisplayName": "샘플 이미지 개수",
     "Name": "SampleCount"
   },
   "SampleDirectory": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "SampleDirectory(System.String)",
-    "DisplayName": "기준 이미지 불러오기",
+    "DisplayName": "샘플 이미지 불러오기",
     "Name": "SampleDirectory"
   },
   "SampleImageFiles1": {
     "Browsable": false,
     "Category": "LotusAPI",
     "Description": "SampleImageFiles1(System.String[])",
-    "DisplayName": "SampleImageFiles1",
+    "DisplayName": "샘플 이미지파일1",
     "Name": "SampleImageFiles1"
   },
   "SampleImageFiles2": {
     "Browsable": false,
     "Category": "LotusAPI",
     "Description": "SampleImageFiles2(System.String[])",
-    "DisplayName": "SampleImageFiles2",
+    "DisplayName": "샘플 이미지파일2",
     "Name": "SampleImageFiles2"
   },
   "SampleModelImageFile": {
@@ -150,7 +150,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "TimingFile(System.String)",
-    "DisplayName": "타이밍 파일 경로",
+    "DisplayName": "타이밍 파일 위치",
     "Name": "TimingFile"
   }
 }

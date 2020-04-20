@@ -3,7 +3,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "MaxValue: double\n",
-    "DisplayName": "MaxValue",
+    "DisplayName": "최대값",
     "Name": "MaxValue"
   },
   "Object": {

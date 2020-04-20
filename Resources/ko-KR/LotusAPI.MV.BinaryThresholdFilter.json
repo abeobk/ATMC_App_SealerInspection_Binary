@@ -3,7 +3,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Inverted: bool\n",
-    "DisplayName": "반전",
+    "DisplayName": "그레이 스케일 반전",
     "Name": "Inverted"
   },
   "MaxValue": {

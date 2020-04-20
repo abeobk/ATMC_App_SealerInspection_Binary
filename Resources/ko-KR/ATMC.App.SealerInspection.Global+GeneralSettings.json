@@ -62,6 +62,41 @@
     "DisplayName": "결과 저장 위치",
     "Name": "ResultDirectory"
   },
+  "SampleDirectory": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "The location where the samples will be stored",
+    "DisplayName": "샘플 이미지 저장 위치",
+    "Name": "SampleDirectory"
+  },
+  "SampleHistoryCount": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "",
+    "DisplayName": "샘플 이미지 저장 개수",
+    "Name": "SampleHistoryCount"
+  },
+  "SampleSaveInterval": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "",
+    "DisplayName": "샘플 이미지 자동 저장 간격",
+    "Name": "SampleSaveInterval"
+  },
+  "ShowImagePath": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "",
+    "DisplayName": "저장 이미지 경로 표시",
+    "Name": "ShowImagePath"
+  },
+  "ShowLiveImage": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "",
+    "DisplayName": "카메라 라이브 사용 여부",
+    "Name": "ShowLiveImage"
+  },
   "TooltipDelay": {
     "Browsable": false,
     "Category": "General settings",
