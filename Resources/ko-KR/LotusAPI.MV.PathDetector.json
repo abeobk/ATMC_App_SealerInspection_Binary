@@ -48,6 +48,13 @@
     "DisplayName": "검사 영역 표시",
     "Name": "ShowThresholdArea"
   },
+  "SmoothFilter": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "SmoothFilter(LotusAPI.MV.SmoothFilter)",
+    "DisplayName": "SmoothFilter",
+    "Name": "SmoothFilter"
+  },
   "Step": {
     "Browsable": true,
     "Category": "LotusAPI",
@@ -61,5 +68,12 @@
     "Description": "TailWidth: int\n",
     "DisplayName": "ROI 가장자리 길이",
     "Name": "TailWidth"
+  },
+  "ThresholdFilter": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ThresholdFilter(LotusAPI.MV.ThresholdFilter)",
+    "DisplayName": "ThresholdFilter",
+    "Name": "ThresholdFilter"
   }
 }

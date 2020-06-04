@@ -34,6 +34,13 @@
     "DisplayName": "데이터베이스 파일",
     "Name": "DatabaseFile"
   },
+  "FontHeight": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "",
+    "DisplayName": "경로 인덱스 크기",
+    "Name": "FontHeight"
+  },
   "ModelSettingFile": {
     "Browsable": true,
     "Category": "Config files",
@@ -61,6 +68,13 @@
     "Description": "The location where the inspection result will be stored",
     "DisplayName": "결과 저장 위치",
     "Name": "ResultDirectory"
+  },
+  "ResultKeepDayCount": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Keep result for this amount of days, delete ealier results",
+    "DisplayName": "결과 보관 기간(일)",
+    "Name": "ResultKeepDayCount"
   },
   "SampleDirectory": {
     "Browsable": true,
@@ -103,6 +117,13 @@
     "Description": "TooltipDelay",
     "DisplayName": "툴팁 출력 시간(ms)",
     "Name": "TooltipDelay"
+  },
+  "VisionPass": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Vision pass feature",
+    "DisplayName": "비전 패스",
+    "Name": "VisionPass"
   },
   "VizRoiSize": {
     "Browsable": true,
