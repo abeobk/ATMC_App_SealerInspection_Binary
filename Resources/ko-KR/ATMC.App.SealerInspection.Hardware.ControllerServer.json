@@ -1,4 +1,18 @@
 {
+  "AdapterName": {
+    "Browsable": true,
+    "Category": "Network settings",
+    "Description": "",
+    "DisplayName": "네트워크 어댑터",
+    "Name": "AdapterName"
+  },
+  "BaudRate": {
+    "Browsable": true,
+    "Category": "Serial settings",
+    "Description": "",
+    "DisplayName": "Baud rate",
+    "Name": "BaudRate"
+  },
   "Commands": {
     "Browsable": true,
     "Category": "Protocol settings",
@@ -10,8 +24,22 @@
     "Browsable": true,
     "Category": "Network settings",
     "Description": "IP(System.String)",
-    "DisplayName": "비전PC IP 주소",
+    "DisplayName": "IP 주소",
     "Name": "IP"
+  },
+  "Interface": {
+    "Browsable": true,
+    "Category": "Controller",
+    "Description": "",
+    "DisplayName": "통신 방식",
+    "Name": "Interface"
+  },
+  "KeepAliveTimeout": {
+    "Browsable": true,
+    "Category": "Controller",
+    "Description": "",
+    "DisplayName": "통신 연결 대기 시간(sec)",
+    "Name": "KeepAliveTimeout"
   },
   "Port": {
     "Browsable": true,
@@ -19,6 +47,13 @@
     "Description": "Port(System.Int32)",
     "DisplayName": "포트 번호",
     "Name": "Port"
+  },
+  "PortName": {
+    "Browsable": true,
+    "Category": "Serial settings",
+    "Description": "",
+    "DisplayName": "Port name",
+    "Name": "PortName"
   },
   "SendCommand": {
     "Browsable": true,

@@ -34,6 +34,20 @@
     "DisplayName": "AutoReconnectInterval",
     "Name": "AutoReconnectInterval"
   },
+  "BandwidthReserve": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "BandwidthReserve: int\n",
+    "DisplayName": "BandwidthReserve",
+    "Name": "BandwidthReserve"
+  },
+  "BandwidthReserveAccumulation": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "BandwidthReserveAccumulation: int\n",
+    "DisplayName": "BandwidthReserveAccumulation",
+    "Name": "BandwidthReserveAccumulation"
+  },
   "BufferCount": {
     "Browsable": false,
     "Category": "LotusAPI",
@@ -82,6 +96,13 @@
     "Description": "ExposureTime: int\n",
     "DisplayName": "노출 시간",
     "Name": "ExposureTime"
+  },
+  "FrameTransmissionDelay": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "FrameTransmissionDelay: int\n",
+    "DisplayName": "FrameTransmissionDelay",
+    "Name": "FrameTransmissionDelay"
   },
   "GainAll": {
     "Browsable": false,
@@ -132,6 +153,13 @@
     "DisplayName": "HorizontalDecimation",
     "Name": "HorizontalDecimation"
   },
+  "InterPacketDelay": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "InterPacketDelay: int\n",
+    "DisplayName": "InterPacketDelay",
+    "Name": "InterPacketDelay"
+  },
   "IsConnected": {
     "Browsable": false,
     "Category": "LotusAPI",
@@ -167,6 +195,13 @@
     "DisplayName": "Output1",
     "Name": "Output1"
   },
+  "PacketSize": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "PacketSize: int\n",
+    "DisplayName": "PacketSize",
+    "Name": "PacketSize"
+  },
   "PixelFormat": {
     "Browsable": false,
     "Category": "LotusAPI",
@@ -201,6 +236,13 @@
     "Description": "Resolution(LotusAPI.Math.Size2i)",
     "DisplayName": "해상도",
     "Name": "Resolution"
+  },
+  "ResultFPS": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "ResultFPS(System.Double)",
+    "DisplayName": "ResultFPS",
+    "Name": "ResultFPS"
   },
   "ReverseX": {
     "Browsable": false,
