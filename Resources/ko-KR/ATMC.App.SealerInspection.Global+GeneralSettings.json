@@ -41,6 +41,13 @@
     "DisplayName": "경로 인덱스 크기",
     "Name": "FontHeight"
   },
+  "MaxTimingError": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Max timing error",
+    "DisplayName": "최대 타이밍 매칭 에러 ",
+    "Name": "MaxTimingError"
+  },
   "ModelSettingFile": {
     "Browsable": true,
     "Category": "Config files",
@@ -110,6 +117,13 @@
     "Description": "",
     "DisplayName": "카메라 라이브 사용 여부",
     "Name": "ShowLiveImage"
+  },
+  "SuppressSealerOffSignal": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Suppress sealer off signale",
+    "DisplayName": "TF 신호 미사용",
+    "Name": "SuppressSealerOffSignal"
   },
   "TooltipDelay": {
     "Browsable": false,

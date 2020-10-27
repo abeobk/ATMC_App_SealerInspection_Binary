@@ -1,4 +1,11 @@
 {
+  "LengthRate": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "LengthRate(System.Double)",
+    "DisplayName": "LengthRate",
+    "Name": "LengthRate"
+  },
   "MaxRangeRect": {
     "Browsable": false,
     "Category": "LotusAPI",

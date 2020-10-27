@@ -97,6 +97,13 @@
     "DisplayName": "노출 시간",
     "Name": "ExposureTime"
   },
+  "FrameReadTimeout": {
+    "Browsable": true,
+    "Category": "LotusAPI",
+    "Description": "FrameReadTimeout: int\nFrameReadTimeout: Int32",
+    "DisplayName": "FrameReadTimeout",
+    "Name": "FrameReadTimeout"
+  },
   "FrameTransmissionDelay": {
     "Browsable": true,
     "Category": "LotusAPI",
