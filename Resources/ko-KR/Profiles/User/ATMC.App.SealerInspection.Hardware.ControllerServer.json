@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "Serial settings",
     "Description": "",
-    "DisplayName": "Baud rate",
+    "DisplayName": "Baud rate(전송 속도 비율)",
     "ReadOnly": false
   },
   "Commands": {
@@ -52,7 +52,7 @@
     "Browsable": true,
     "Category": "Serial settings",
     "Description": "",
-    "DisplayName": "Port name",
+    "DisplayName": "포트 이름",
     "ReadOnly": false
   },
   "SendCommand": {

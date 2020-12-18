@@ -94,7 +94,7 @@
     "Browsable": true,
     "Category": "ModelConfig",
     "Description": "",
-    "DisplayName": "Inspect count",
+    "DisplayName": "ROI 개수",
     "ReadOnly": true
   },
   "ROIs": {
@@ -171,7 +171,7 @@
     "Browsable": false,
     "Category": "기타",
     "Description": "",
-    "DisplayName": "Timings",
-    "ReadOnly": true
+    "DisplayName": "타이밍",
+    "ReadOnly": false
   }
 }

@@ -1,0 +1,107 @@
+{
+  "CameraIndex": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "CameraIndex",
+    "DisplayName": "사진 인덱스",
+    "ReadOnly": true
+  },
+  "Detector": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "Detector",
+    "ReadOnly": false
+  },
+  "LengthRate": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "LengthRate",
+    "DisplayName": "검사 영역 비율",
+    "ReadOnly": true
+  },
+  "MaxRangeRect": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "MaxRangeRect",
+    "ReadOnly": true
+  },
+  "MinRangeRect": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "MinRangeRect",
+    "ReadOnly": true
+  },
+  "OKPercent": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "OK 퍼센트",
+    "ReadOnly": false
+  },
+  "Region": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "Region",
+    "ReadOnly": false
+  },
+  "RegionValid": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "RegionValid",
+    "ReadOnly": true
+  },
+  "ShowLimit": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "ShowLimit",
+    "ReadOnly": false
+  },
+  "ThresholdLower": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "ThresholdLower",
+    "DisplayName": "임계값 하한",
+    "ReadOnly": false
+  },
+  "ThresholdUpper": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "ThresholdUpper",
+    "DisplayName": "임계값 하한",
+    "ReadOnly": false
+  },
+  "Timing": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "Timing",
+    "DisplayName": "타이밍",
+    "ReadOnly": true
+  },
+  "Valid": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "Valid",
+    "ReadOnly": true
+  },
+  "VizRegion": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "VizRegion",
+    "ReadOnly": false
+  },
+  "VizRegionValid": {
+    "Browsable": false,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "VizRegionValid",
+    "ReadOnly": true
+  }
+}

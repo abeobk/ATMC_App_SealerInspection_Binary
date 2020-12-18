@@ -45,14 +45,14 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "",
-    "DisplayName": "최대 샘플링 시간",
+    "DisplayName": "최대 샘플링 시간(sec)",
     "ReadOnly": false
   },
   "MaxTimingError": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "Max timing error",
-    "DisplayName": "최대 타이밍 매칭 에러 ",
+    "DisplayName": "타이밍 매칭 에러 시간 (ms)",
     "ReadOnly": false
   },
   "ModelSettingFile": {
