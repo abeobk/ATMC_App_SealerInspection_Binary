@@ -73,7 +73,7 @@
     "Browsable": true,
     "Category": "기타",
     "Description": "ThresholdUpper",
-    "DisplayName": "임계값 하한",
+    "DisplayName": "임계값 상한",
     "ReadOnly": false
   },
   "Timing": {
