@@ -111,6 +111,13 @@
     "DisplayName": "샘플 이미지 자동 저장 간격",
     "ReadOnly": false
   },
+  "SaveAllSamples": {
+    "Browsable": true,
+    "Category": "General settings",
+    "Description": "Save all samples",
+    "DisplayName": "모든 샘플 이미지 저장",
+    "ReadOnly": false
+  },
   "ShowImagePath": {
     "Browsable": true,
     "Category": "General settings",
