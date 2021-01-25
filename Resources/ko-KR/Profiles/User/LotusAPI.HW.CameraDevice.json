@@ -252,10 +252,10 @@
     "ReadOnly": false
   },
   "PixelFormat": {
-    "Browsable": false,
+    "Browsable": true,
     "Category": "LotusAPI",
     "Description": "PixelFormat: String\n",
-    "DisplayName": "PixelFormat",
+    "DisplayName": "컬러 형식",
     "ReadOnly": false
   },
   "Ptr": {

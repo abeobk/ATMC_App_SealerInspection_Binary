@@ -112,7 +112,7 @@
     "ReadOnly": false
   },
   "SaveAllSamples": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "Save all samples",
     "DisplayName": "모든 샘플 이미지 저장",
@@ -133,7 +133,7 @@
     "ReadOnly": false
   },
   "SuppressSealerOffSignal": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "Suppress sealer off signale",
     "DisplayName": "TF 신호 미사용",

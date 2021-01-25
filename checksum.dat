@@ -1,4 +1,4 @@
-be3cf9389ca24b5ba340ea70d8b73fe6a65fee17 *./ATMC.App.SealerInspection.exe
+e528383a7b758916897f5a1560abd965c1c82637 *./ATMC.App.SealerInspection.exe
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
 3bcec3cde913852eb6b414f6a14019f1b9c0bfc6 *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig.json
@@ -23,12 +23,12 @@ a35509dcaef8dabb7da4dbf62182abbe03cfdbde *./Resources/ko-KR/LotusAPI.MV.MedianFi
 d6aee642ad219be3daa7c02a401b838682125226 *./Resources/ko-KR/LotusAPI.MV.TriangleThresholdFilter.json
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
 3bcec3cde913852eb6b414f6a14019f1b9c0bfc6 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.DetectorConfig.json
-38c6b1d63d4b53023e3a88947771e31a74bd5b47 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Global+GeneralSettings.json
+422869d91653e8c9ba8213098ddbee932f071fbe *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Global+GeneralSettings.json
 bec446427e88551a10e8c4d626f4c5391019e3ec *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.CommandInfo.json
-ec5b85d2317e6d347989a65ee7e35f5f309f2436 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.ControllerServer.json
+b9ce86a5123cb9a7d318a9aba5c2717659d1a133 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.ControllerServer.json
 72979559e7d18fdbd08d1f5dc223e35e308a8f46 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ModelConfig.json
 3ae073d95c5633434b2ce66d3603c7dce2c789dc *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ROIConfig.json
-9428ec9adaf95ea87faca8cff7eb54e8e675c574 *./Resources/ko-KR/Profiles/User/LotusAPI.HW.CameraDevice.json
+fc6351c8f384d71cb4289ff11cd95a86d017b2c6 *./Resources/ko-KR/Profiles/User/LotusAPI.HW.CameraDevice.json
 5e6c662ae93a6fc82a6893c7a1844d1825a0e8dd *./Resources/ko-KR/Profiles/User/LotusAPI.MV.BinaryThresholdFilter.json
 16cc7945e1fd62985422de221790635f0d60999c *./Resources/ko-KR/Profiles/User/LotusAPI.MV.BlurFilter.json
 7590da056cedd6249ae25aa1822c4ffafe4dd6c5 *./Resources/ko-KR/Profiles/User/LotusAPI.MV.GaussianAdaptiveThresholdFilter.json

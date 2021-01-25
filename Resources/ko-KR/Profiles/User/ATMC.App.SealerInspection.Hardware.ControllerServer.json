@@ -20,6 +20,13 @@
     "DisplayName": "프로토콜",
     "ReadOnly": false
   },
+  "ConnectionWaitTimeout": {
+    "Browsable": true,
+    "Category": "Controller",
+    "Description": "",
+    "DisplayName": "ConnectionWaitTimeout",
+    "ReadOnly": false
+  },
   "IP": {
     "Browsable": true,
     "Category": "Network settings",
