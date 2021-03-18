@@ -146,6 +146,13 @@
     "DisplayName": "툴팁 출력 시간(ms)",
     "ReadOnly": false
   },
+  "UseCameraBinning": {
+    "Browsable": false,
+    "Category": "GENERAL",
+    "Description": "Use camera binning function to reduce resolution",
+    "DisplayName": "카메라 빈닝 기능",
+    "ReadOnly": false
+  },
   "VisionPass": {
     "Browsable": true,
     "Category": "General settings",
