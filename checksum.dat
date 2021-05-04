@@ -1,5 +1,6 @@
-55d6c92ae7f8bc3047d9087cb0779a1eb025223c *./ATMC.App.SealerInspection.exe
-ffbd61dfb17384b989fe22335e847ddd5cc0b3a7 *./ATMC.App.SealerInspection.pdb
+be869e7f068896cd0eec02e6e382a65612eaa096 *./ATMC.App.SealerInspection.exe
+91c2361cafdd7ba52cdc21e11a632ba78239c274 *./ATMC.App.SealerInspection.pdb
+369845d2681a397129f877dc5e49a5f94cdb4044 *./ATMC.Service.Watchdog.exe
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
 3bcec3cde913852eb6b414f6a14019f1b9c0bfc6 *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig.json
@@ -44,3 +45,4 @@ a35509dcaef8dabb7da4dbf62182abbe03cfdbde *./Resources/ko-KR/Profiles/User/LotusA
 286744dec461c523d0e06fe9314d9015d6299e2d *./Resources/ko-KR/Profiles/User/LotusAPI.MV.ThresholdFilter.json
 d6aee642ad219be3daa7c02a401b838682125226 *./Resources/ko-KR/Profiles/User/LotusAPI.MV.TriangleThresholdFilter.json
 e61281e5fe9371e50b983035a6d09d8810459781 *./Resources/splash.png
+b16ad34688ed1ba3dce1ace76ba30e4cfb253e89 *./SealerStarter.exe
