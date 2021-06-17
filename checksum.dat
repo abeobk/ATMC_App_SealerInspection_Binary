@@ -1,5 +1,5 @@
-be869e7f068896cd0eec02e6e382a65612eaa096 *./ATMC.App.SealerInspection.exe
-91c2361cafdd7ba52cdc21e11a632ba78239c274 *./ATMC.App.SealerInspection.pdb
+00372a9745c588ed04b5ed547ad3d14851c0771a *./ATMC.App.SealerInspection.exe
+c631fbf93aaa3c5392ca4fc95cfc9b70a752012c *./ATMC.App.SealerInspection.pdb
 369845d2681a397129f877dc5e49a5f94cdb4044 *./ATMC.Service.Watchdog.exe
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
