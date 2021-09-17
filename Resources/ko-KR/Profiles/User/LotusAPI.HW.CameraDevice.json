@@ -122,7 +122,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "EnableGamma: bool\n",
-    "DisplayName": "감마 사용 여부",
+    "DisplayName": "감마 사용 여부 (True=사용)",
     "ReadOnly": false
   },
   "EnableTrigger": {

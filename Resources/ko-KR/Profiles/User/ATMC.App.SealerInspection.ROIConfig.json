@@ -13,6 +13,13 @@
     "DisplayName": "Detector",
     "ReadOnly": false
   },
+  "FrameID": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "프레임 ID",
+    "ReadOnly": true
+  },
   "LengthRate": {
     "Browsable": true,
     "Category": "기타",
@@ -53,6 +60,13 @@
     "Category": "기타",
     "Description": "",
     "DisplayName": "RegionValid",
+    "ReadOnly": true
+  },
+  "SectionID": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "섹션 ID",
     "ReadOnly": true
   },
   "ShowLimit": {

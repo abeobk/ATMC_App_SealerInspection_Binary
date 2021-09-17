@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "The camera sampling FPS",
-    "DisplayName": "카메라 초당 프레임 수",
+    "DisplayName": "카메라 초당 프레임 수(FPS)",
     "ReadOnly": false
   },
   "ConfigDirectory": {
@@ -34,8 +34,15 @@
     "DisplayName": "데이터베이스 파일",
     "ReadOnly": false
   },
-  "FontHeight": {
+  "DynamicResampling": {
     "Browsable": true,
+    "Category": "SAMPLING",
+    "Description": "",
+    "DisplayName": "동적 샘플링 (True=섹션 추가 가능)",
+    "ReadOnly": false
+  },
+  "FontHeight": {
+    "Browsable": false,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "경로 인덱스 크기",
@@ -45,7 +52,14 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "",
-    "DisplayName": "최대 샘플링 시간(sec)",
+    "DisplayName": "자동 종료 시간(sec)",
+    "ReadOnly": false
+  },
+  "MaxSectionTime": {
+    "Browsable": true,
+    "Category": "SAMPLING",
+    "Description": "",
+    "DisplayName": "최대 섹션 시간(sec)",
     "ReadOnly": false
   },
   "MaxTimingError": {
@@ -119,14 +133,14 @@
     "ReadOnly": false
   },
   "ShowImagePath": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "저장 이미지 경로 표시",
     "ReadOnly": false
   },
   "ShowLiveImage": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "카메라 라이브 사용 여부",
@@ -157,7 +171,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "Vision pass feature",
-    "DisplayName": "비전 패스",
+    "DisplayName": "비젼 패스 (True=비젼 패스,  False=비젼 사용)",
     "ReadOnly": false
   },
   "VizRoiSize": {

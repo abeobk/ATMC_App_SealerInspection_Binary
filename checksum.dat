@@ -1,5 +1,5 @@
-00372a9745c588ed04b5ed547ad3d14851c0771a *./ATMC.App.SealerInspection.exe
-c631fbf93aaa3c5392ca4fc95cfc9b70a752012c *./ATMC.App.SealerInspection.pdb
+ef3597bf260a36b4f45ce0d4a48ad922a8743aa1 *./ATMC.App.SealerInspection.exe
+b5c933cb016eeb31941500636b98b88c028c1bd6 *./ATMC.App.SealerInspection.pdb
 369845d2681a397129f877dc5e49a5f94cdb4044 *./ATMC.Service.Watchdog.exe
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
@@ -25,12 +25,12 @@ a35509dcaef8dabb7da4dbf62182abbe03cfdbde *./Resources/ko-KR/LotusAPI.MV.MedianFi
 d6aee642ad219be3daa7c02a401b838682125226 *./Resources/ko-KR/LotusAPI.MV.TriangleThresholdFilter.json
 f0e33accf199afbc69c379708abcae9a9d3d1b0a *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.DetectorConfig+DetectionRegion.json
 3bcec3cde913852eb6b414f6a14019f1b9c0bfc6 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.DetectorConfig.json
-ea4197d9337dbc358eb13013a07418dfa9fc40b6 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Global+GeneralSettings.json
+120f2fc2598473b245c6ddfc298b1238ed8fbf0c *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Global+GeneralSettings.json
 bec446427e88551a10e8c4d626f4c5391019e3ec *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.CommandInfo.json
-b9ce86a5123cb9a7d318a9aba5c2717659d1a133 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.ControllerServer.json
-72979559e7d18fdbd08d1f5dc223e35e308a8f46 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ModelConfig.json
-3ae073d95c5633434b2ce66d3603c7dce2c789dc *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ROIConfig.json
-fc6351c8f384d71cb4289ff11cd95a86d017b2c6 *./Resources/ko-KR/Profiles/User/LotusAPI.HW.CameraDevice.json
+eccf94404df2746dcfd5daa2e6b67b2dfaca30dd *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.Hardware.ControllerServer.json
+913fbffd9812f4f240c1911bb6b7702ea064b949 *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ModelConfig.json
+3a3b4207d32a8b6a54cf5c6a868ddd3352b5689e *./Resources/ko-KR/Profiles/User/ATMC.App.SealerInspection.ROIConfig.json
+77733491430fc6b069e009f4fb82d97a898b2718 *./Resources/ko-KR/Profiles/User/LotusAPI.HW.CameraDevice.json
 5e6c662ae93a6fc82a6893c7a1844d1825a0e8dd *./Resources/ko-KR/Profiles/User/LotusAPI.MV.BinaryThresholdFilter.json
 16cc7945e1fd62985422de221790635f0d60999c *./Resources/ko-KR/Profiles/User/LotusAPI.MV.BlurFilter.json
 7590da056cedd6249ae25aa1822c4ffafe4dd6c5 *./Resources/ko-KR/Profiles/User/LotusAPI.MV.GaussianAdaptiveThresholdFilter.json

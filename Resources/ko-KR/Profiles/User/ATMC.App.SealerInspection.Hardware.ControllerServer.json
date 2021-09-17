@@ -23,8 +23,8 @@
   "ConnectionWaitTimeout": {
     "Browsable": true,
     "Category": "Controller",
-    "Description": "",
-    "DisplayName": "ConnectionWaitTimeout",
+    "Description": "ConnectionWaitTimeout",
+    "DisplayName": "연결 응답 시간",
     "ReadOnly": false
   },
   "IP": {
@@ -45,7 +45,7 @@
     "Browsable": true,
     "Category": "Controller",
     "Description": "",
-    "DisplayName": "통신 연결 대기 시간(sec)",
+    "DisplayName": "KJ 응답 대기 시간(sec)",
     "ReadOnly": false
   },
   "Port": {
