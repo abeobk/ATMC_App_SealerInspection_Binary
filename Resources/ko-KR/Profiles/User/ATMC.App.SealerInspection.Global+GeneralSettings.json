@@ -38,7 +38,7 @@
     "Browsable": true,
     "Category": "SAMPLING",
     "Description": "",
-    "DisplayName": "동적 샘플링 (True=섹션 추가 가능)",
+    "DisplayName": "동적 샘플링",
     "ReadOnly": false
   },
   "FontHeight": {
@@ -46,6 +46,13 @@
     "Category": "General settings",
     "Description": "",
     "DisplayName": "경로 인덱스 크기",
+    "ReadOnly": false
+  },
+  "FullCycleDirectory": {
+    "Browsable": true,
+    "Category": "GENERAL",
+    "Description": "The location where the full cycle samples will be stored",
+    "DisplayName": "전체 사이클 저장 폴더",
     "ReadOnly": false
   },
   "MaxSamplingTime": {
@@ -94,7 +101,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "The location where the inspection result will be stored",
-    "DisplayName": "결과 저장 위치",
+    "DisplayName": "결과 저장 폴더",
     "ReadOnly": false
   },
   "ResultKeepDayCount": {
@@ -108,7 +115,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "The location where the samples will be stored",
-    "DisplayName": "샘플 이미지 저장 위치",
+    "DisplayName": "샘플 이미지 저장 폴더",
     "ReadOnly": false
   },
   "SampleHistoryCount": {
@@ -140,7 +147,7 @@
     "ReadOnly": false
   },
   "ShowLiveImage": {
-    "Browsable": false,
+    "Browsable": true,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "카메라 라이브 사용 여부",
@@ -171,7 +178,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "Vision pass feature",
-    "DisplayName": "비젼 패스 (True=비젼 패스,  False=비젼 사용)",
+    "DisplayName": "비젼 패스",
     "ReadOnly": false
   },
   "VizRoiSize": {

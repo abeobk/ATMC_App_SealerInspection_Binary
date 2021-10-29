@@ -48,6 +48,13 @@
     "DisplayName": "DetectorConfigs",
     "ReadOnly": false
   },
+  "FullCycleCaptureMode": {
+    "Browsable": true,
+    "Category": "Sampling",
+    "Description": "",
+    "DisplayName": "전체 사이클 촬영 모드",
+    "ReadOnly": false
+  },
   "InspectCount": {
     "Browsable": true,
     "Category": "LotusAPI",

@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "Serial settings",
     "Description": "",
-    "DisplayName": "Baud rate",
+    "DisplayName": "Baud rate(전송 속도 비율)",
     "ReadOnly": false
   },
   "Commands": {
@@ -18,6 +18,13 @@
     "Category": "Protocol settings",
     "Description": "Commands(System.Collections.Generic.List`1[ATMC.App.SealerInspection.Hardware.CommandInfo])",
     "DisplayName": "프로토콜",
+    "ReadOnly": false
+  },
+  "ConnectionWaitTimeout": {
+    "Browsable": true,
+    "Category": "Controller",
+    "Description": "ConnectionWaitTimeout",
+    "DisplayName": "연결 응답 시간",
     "ReadOnly": false
   },
   "IP": {
@@ -38,7 +45,7 @@
     "Browsable": true,
     "Category": "Controller",
     "Description": "",
-    "DisplayName": "통신 연결 대기 시간(sec)",
+    "DisplayName": "KJ 응답 대기 시간(sec)",
     "ReadOnly": false
   },
   "Port": {
@@ -52,7 +59,7 @@
     "Browsable": true,
     "Category": "Serial settings",
     "Description": "",
-    "DisplayName": "Port name",
+    "DisplayName": "포트 이름",
     "ReadOnly": false
   },
   "SendCommand": {

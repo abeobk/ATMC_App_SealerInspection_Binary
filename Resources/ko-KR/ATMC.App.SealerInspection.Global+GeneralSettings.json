@@ -10,7 +10,7 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "The camera sampling FPS",
-    "DisplayName": "카메라 초당 프레임 수",
+    "DisplayName": "카메라 초당 프레임 수(FPS)",
     "ReadOnly": false
   },
   "ConfigDirectory": {
@@ -34,8 +34,15 @@
     "DisplayName": "데이터베이스 파일",
     "ReadOnly": false
   },
-  "FontHeight": {
+  "DynamicResampling": {
     "Browsable": true,
+    "Category": "SAMPLING",
+    "Description": "",
+    "DisplayName": "동적 샘플링",
+    "ReadOnly": false
+  },
+  "FontHeight": {
+    "Browsable": false,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "경로 인덱스 크기",
@@ -45,14 +52,21 @@
     "Browsable": true,
     "Category": "General settings",
     "Description": "",
-    "DisplayName": "최대 샘플링 시간",
+    "DisplayName": "자동 종료 시간(sec)",
+    "ReadOnly": false
+  },
+  "MaxSectionTime": {
+    "Browsable": true,
+    "Category": "SAMPLING",
+    "Description": "",
+    "DisplayName": "최대 섹션 시간(sec)",
     "ReadOnly": false
   },
   "MaxTimingError": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "Max timing error",
-    "DisplayName": "최대 타이밍 매칭 에러 ",
+    "DisplayName": "타이밍 매칭 에러 시간 (ms)",
     "ReadOnly": false
   },
   "ModelSettingFile": {
@@ -111,8 +125,15 @@
     "DisplayName": "샘플 이미지 자동 저장 간격",
     "ReadOnly": false
   },
+  "SaveAllSamples": {
+    "Browsable": false,
+    "Category": "General settings",
+    "Description": "Save all samples",
+    "DisplayName": "모든 샘플 이미지 저장",
+    "ReadOnly": false
+  },
   "ShowImagePath": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "",
     "DisplayName": "저장 이미지 경로 표시",
@@ -126,7 +147,7 @@
     "ReadOnly": false
   },
   "SuppressSealerOffSignal": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "General settings",
     "Description": "Suppress sealer off signale",
     "DisplayName": "TF 신호 미사용",
@@ -139,11 +160,18 @@
     "DisplayName": "툴팁 출력 시간(ms)",
     "ReadOnly": false
   },
+  "UseCameraBinning": {
+    "Browsable": false,
+    "Category": "GENERAL",
+    "Description": "Use camera binning function to reduce resolution",
+    "DisplayName": "카메라 빈닝 기능",
+    "ReadOnly": false
+  },
   "VisionPass": {
     "Browsable": true,
     "Category": "General settings",
     "Description": "Vision pass feature",
-    "DisplayName": "비전 패스",
+    "DisplayName": "비젼 패스",
     "ReadOnly": false
   },
   "VizRoiSize": {

@@ -94,7 +94,7 @@
     "Browsable": true,
     "Category": "ModelConfig",
     "Description": "",
-    "DisplayName": "Inspect count",
+    "DisplayName": "ROI 개수",
     "ReadOnly": true
   },
   "ROIs": {
@@ -146,6 +146,13 @@
     "DisplayName": "Path 이미지 불러오기",
     "ReadOnly": false
   },
+  "SectionCount": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "섹션 개수",
+    "ReadOnly": true
+  },
   "SkipCount": {
     "Browsable": true,
     "Category": "LotusAPI",
@@ -160,6 +167,13 @@
     "DisplayName": "Timing",
     "ReadOnly": false
   },
+  "TimingCount": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "TimingCount",
+    "DisplayName": "샘플 개수",
+    "ReadOnly": true
+  },
   "TimingFile": {
     "Browsable": true,
     "Category": "LotusAPI",
@@ -171,7 +185,7 @@
     "Browsable": false,
     "Category": "기타",
     "Description": "",
-    "DisplayName": "Timings",
-    "ReadOnly": true
+    "DisplayName": "타이밍",
+    "ReadOnly": false
   }
 }

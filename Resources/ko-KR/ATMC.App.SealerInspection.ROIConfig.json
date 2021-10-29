@@ -2,8 +2,8 @@
   "CameraIndex": {
     "Browsable": true,
     "Category": "기타",
-    "Description": "",
-    "DisplayName": "CameraIndex",
+    "Description": "CameraIndex",
+    "DisplayName": "사진 인덱스",
     "ReadOnly": true
   },
   "Detector": {
@@ -13,11 +13,18 @@
     "DisplayName": "Detector",
     "ReadOnly": false
   },
-  "LengthRate": {
+  "FrameID": {
     "Browsable": true,
     "Category": "기타",
     "Description": "",
-    "DisplayName": "LengthRate",
+    "DisplayName": "프레임 ID",
+    "ReadOnly": true
+  },
+  "LengthRate": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "LengthRate",
+    "DisplayName": "검사 영역 비율",
     "ReadOnly": true
   },
   "MaxRangeRect": {
@@ -38,7 +45,7 @@
     "Browsable": true,
     "Category": "기타",
     "Description": "",
-    "DisplayName": "OKPercent",
+    "DisplayName": "OK 퍼센트",
     "ReadOnly": false
   },
   "Region": {
@@ -55,6 +62,13 @@
     "DisplayName": "RegionValid",
     "ReadOnly": true
   },
+  "SectionID": {
+    "Browsable": true,
+    "Category": "기타",
+    "Description": "",
+    "DisplayName": "섹션 ID",
+    "ReadOnly": true
+  },
   "ShowLimit": {
     "Browsable": false,
     "Category": "기타",
@@ -65,22 +79,22 @@
   "ThresholdLower": {
     "Browsable": true,
     "Category": "기타",
-    "Description": "",
-    "DisplayName": "ThresholdLower",
+    "Description": "ThresholdLower",
+    "DisplayName": "임계값 하한",
     "ReadOnly": false
   },
   "ThresholdUpper": {
     "Browsable": true,
     "Category": "기타",
-    "Description": "",
-    "DisplayName": "ThresholdUpper",
+    "Description": "ThresholdUpper",
+    "DisplayName": "임계값 상한",
     "ReadOnly": false
   },
   "Timing": {
     "Browsable": true,
     "Category": "기타",
-    "Description": "",
-    "DisplayName": "Timing",
+    "Description": "Timing",
+    "DisplayName": "타이밍",
     "ReadOnly": true
   },
   "Valid": {

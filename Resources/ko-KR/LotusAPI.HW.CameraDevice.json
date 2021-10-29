@@ -56,21 +56,21 @@
     "ReadOnly": false
   },
   "BinningModeHorizontal": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "BinningModeHorizontal: String\nBinningModeHorizontal: LotusAPI::HW::Camera_BinningMethodHorizontal",
     "DisplayName": "BinningModeHorizontal",
     "ReadOnly": false
   },
   "BinningModeVertical": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "BinningModeVertical: String\nBinningModeVertical: LotusAPI::HW::Camera_BinningMethodVertical",
     "DisplayName": "BinningModeVertical",
     "ReadOnly": false
   },
   "BinningVertical": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "BinningVertical: int\nBinningVertical: Int32",
     "DisplayName": "BinningVertical",
@@ -84,7 +84,7 @@
     "ReadOnly": false
   },
   "DecimationHorizontal": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "DecimationHorizontal: int\nDecimationHorizontal: Int32",
     "DisplayName": "DecimationHorizontal",
@@ -122,7 +122,7 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "EnableGamma: bool\n",
-    "DisplayName": "감마 사용 여부",
+    "DisplayName": "감마 사용 여부 (True=사용)",
     "ReadOnly": false
   },
   "EnableTrigger": {
@@ -136,18 +136,18 @@
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "ExposureTime: int\n",
-    "DisplayName": "노출 시간",
+    "DisplayName": "노출 시간(us)",
     "ReadOnly": false
   },
   "FrameReadTimeout": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "FrameReadTimeout: int\nFrameReadTimeout: Int32",
     "DisplayName": "FrameReadTimeout",
     "ReadOnly": false
   },
   "FrameTransmissionDelay": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "FrameTransmissionDelay: int\n",
     "DisplayName": "FrameTransmissionDelay",
@@ -161,24 +161,24 @@
     "ReadOnly": false
   },
   "GainAnalog": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "GainAnalog: int\n",
     "DisplayName": "Gain",
     "ReadOnly": false
   },
   "GainDigital": {
-    "Browsable": false,
+    "Browsable": true,
     "Category": "LotusAPI",
     "Description": "GainDigital: int\n",
-    "DisplayName": "GainDigital",
+    "DisplayName": "게인(0~95)",
     "ReadOnly": false
   },
   "Gamma": {
     "Browsable": true,
     "Category": "LotusAPI",
     "Description": "Gamma: double\n",
-    "DisplayName": "감마",
+    "DisplayName": "감마(0~4)",
     "ReadOnly": false
   },
   "HorizontalBinning": {
@@ -203,7 +203,7 @@
     "ReadOnly": false
   },
   "InterPacketDelay": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "InterPacketDelay: int\n",
     "DisplayName": "InterPacketDelay",
@@ -245,21 +245,21 @@
     "ReadOnly": false
   },
   "PacketSize": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "PacketSize: int\n",
     "DisplayName": "PacketSize",
     "ReadOnly": false
   },
   "PixelFormat": {
-    "Browsable": false,
+    "Browsable": true,
     "Category": "LotusAPI",
     "Description": "PixelFormat: String\n",
-    "DisplayName": "PixelFormat",
+    "DisplayName": "컬러 형식",
     "ReadOnly": false
   },
   "Ptr": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "Ptr(Lotus.Hw.ICamera*)",
     "DisplayName": "Ptr",
@@ -280,7 +280,7 @@
     "ReadOnly": false
   },
   "Resolution": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "Resolution(LotusAPI.Math.Size2i)",
     "DisplayName": "해상도",
@@ -322,7 +322,7 @@
     "ReadOnly": false
   },
   "Type": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "Type(LotusAPI.HW.CameraType)",
     "DisplayName": "타입",
@@ -350,7 +350,7 @@
     "ReadOnly": false
   },
   "WhiteBalance": {
-    "Browsable": true,
+    "Browsable": false,
     "Category": "LotusAPI",
     "Description": "WhiteBalance: String\n",
     "DisplayName": "화이트 밸런스",
